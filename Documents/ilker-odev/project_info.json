@@ -1,0 +1,16 @@
+{
+  "projectName": "Cron Backup Manager",
+  "category": "Automation & Scheduling",
+  "author": "İLKER MIRIK - 2420161145",
+  "version": "1.0.0",
+  "description": "User-friendly interface for managing cron jobs and automated backups",
+  "features": [
+    "Cron expression translator",
+    "Automated backup wizard",
+    "System activity logging"
+  ],
+  "requirements": {
+    "os": "Cross-platform",
+    "language": "Python 3.10"
+  }
+}
